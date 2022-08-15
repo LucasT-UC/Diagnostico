@@ -1,7 +1,7 @@
 import json
 
 def main():
-    #tweets_retweeted()
+    tweets_retweeted()
     most_tweets()
     day_tweets()
     most_hashtags()
